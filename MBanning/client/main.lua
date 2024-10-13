@@ -1,8 +1,0 @@
-print("")
-print("^1Author : MoroBack (moroback.)^0")
-print("")
-print("^2[Download] : https://github.com/Moroback/MBan-WaveShield^0")
-print("^2[Feature Suggestions] : https://github.com/Moroback/MBan-WaveShield^0")
-print("")
-print("^6Thank you for your support.^0")
-print("")
