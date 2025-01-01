@@ -18,7 +18,3 @@ client_scripts {
     '@Framework/locale.lua',
     'client/main.lua'
 }
-
-dependencies {
-    'Framework'
-}
